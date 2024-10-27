@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axuzaika.github.io/sitemap_index.axuzaika
